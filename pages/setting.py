@@ -1,0 +1,10 @@
+valid_email = 'argon@mail.com'
+valid_phone = '8(960)7289624'
+valid_password = '1a1a1a'
+valid_login = 'argon55'
+valid_ls = '123456789098'
+valid_username = u"Argon"
+ad_slogan = u"Персональный помощник в цифровом мире Ростелекома"
+site = 'https://b2c.passport.rt.ru'
+link_lk = "/account_b2c/page"
+drv_path = '../../ChromeDrv/chromedriver.exe'
